@@ -1,0 +1,6 @@
+machine_id,avg_efficiency_pct,avg_defect_rate_pct,avg_downtime_pct,total_units_produced,total_defective_units,total_downtime_minutes,failure_days
+M1,92.83,2.19,4.59,267231,5672,11899,4
+M2,93.12,2.23,4.32,238152,5280,11197,3
+M3,93.31,2.1,4.39,253338,5252,11385,3
+M4,93.77,2.07,4.05,225133,4684,10504,0
+M5,93.84,2.25,3.9,247708,5582,10102,0

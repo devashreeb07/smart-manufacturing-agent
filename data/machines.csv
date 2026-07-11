@@ -1,0 +1,6 @@
+machine_id,machine_name,machine_type,install_date,rated_capacity
+M1,Cutter Alpha,Cutter,2022-03-15,1800
+M2,Press Beta,Press,2021-11-01,1600
+M3,Cutter Gamma,Cutter,2023-06-10,1700
+M4,Folder Delta,Folder,2020-08-20,1500
+M5,Press Epsilon,Press,2022-01-05,1650
